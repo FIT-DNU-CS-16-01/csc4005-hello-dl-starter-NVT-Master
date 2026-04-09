@@ -1,9 +1,9 @@
 # CSC4005 – Lab 0 Submission Checklist
 
 ## Thông tin sinh viên
-- Họ tên: (bổ sung)
-- MSSV: (bổ sung)
-- Lớp: (bổ sung)
+- Họ tên: Nguyễn Văn Tiến
+- MSSV: 1771040025
+- Lớp: FIT-DNU-CS-16-01
 
 ## Kiểm tra trước khi nộp
 - [x] Đã tạo môi trường Python riêng cho CSC4005
